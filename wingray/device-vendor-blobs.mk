@@ -37,7 +37,6 @@ PRODUCT_COPY_FILES += \
     vendor/moto/wingray/proprietary/libmoto_ecnswrapper.so:system/lib/libmoto_ecnswrapper.so \
     vendor/moto/wingray/proprietary/libtpa.so:system/lib/libtpa.so \
     vendor/moto/wingray/proprietary/libtpa_core.so:system/lib/libtpa_core.so \
-    vendor/moto/wingray/proprietary/bootanimation-encrypted.zip:system/media/bootanimation-encrypted.zip \
     vendor/moto/wingray/proprietary/audio_effects.conf:system/vendor/etc/audio_effects.conf \
     vendor/moto/wingray/proprietary/LMprec_508.emd:system/media/LMprec_508.emd \
     vendor/moto/wingray/proprietary/PFFprec_600.emd:system/media/PFFprec_600.emd \
