@@ -24,6 +24,7 @@ PRODUCT_COPY_FILES += \
     vendor/moto/wingray/proprietary/ftmipcd:system/bin/ftmipcd \
     vendor/moto/wingray/proprietary/location:system/bin/location \
     vendor/moto/wingray/proprietary/tcmd:system/bin/tcmd \
+    vendor/moto/wingray/proprietary/thtt:system/bin/thtt \
     vendor/moto/wingray/proprietary/cpcap_gain.bin:system/etc/cpcap_gain.bin \
     vendor/moto/wingray/proprietary/gps.conf:system/etc/gps.conf \
     vendor/moto/wingray/proprietary/gpsconfig.xml:system/etc/gpsconfig.xml \
