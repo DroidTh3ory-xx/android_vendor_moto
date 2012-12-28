@@ -28,12 +28,7 @@ PRODUCT_COPY_FILES += \
 # All the apks necessary for stingray
 PRODUCT_PACKAGES += \
     AppDirectedSmsService \
-    MotoImsServer \
-    MotoLteTelephony \
     MotoModemUtil \
-    MotoSimUiHelper \
-    StingrayProgramMenu \
-    StingrayProgramMenuSystem \
     VZWAPNLib \
     VZWAPNService \
 
