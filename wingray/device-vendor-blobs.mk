@@ -48,6 +48,7 @@ PRODUCT_COPY_FILES += \
     vendor/moto/wingray/proprietary/ep_acoustic_model:system/usr/srec/en-US/ep_acoustic_model \
     vendor/moto/wingray/proprietary/google_generic_update.txt:system/etc/updatecmds/google_generic_update.txt \
     vendor/moto/wingray/proprietary/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
+    vendor/moto/wingray/proprietary/libjni_mosaic.so:system/lib/libjni_mosaic.so \
     vendor/moto/wingray/proprietary/libWVStreamControlAPI_L3.so:system/vendor/lib/libWVStreamControlAPI_L3.so \
     vendor/moto/wingray/proprietary/libwvdrm_L3.so:system/vendor/lib/libwvdrm_L3.so \
     vendor/moto/wingray/proprietary/libwvm.so:system/vendor/lib/libwvm.so \
